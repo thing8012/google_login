@@ -1,0 +1,4 @@
+/.idea
+venv/
+chromedriver.exe
+test.py
